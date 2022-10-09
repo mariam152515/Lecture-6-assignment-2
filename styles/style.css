@@ -1,0 +1,144 @@
+body{
+	background: #F6F8F9;
+}
+.logo{
+	display: inline-block;
+	vertical-align: middle;
+	margin:  21px 90px 0px 20px;
+	width: 40px;
+	height: 11px;
+}
+.navigation{
+	display: inline-block;
+	vertical-align: middle;
+
+
+}
+.nav-item {
+	display: inline-block;
+	vertical-align: middle;
+	font-size: 11px;
+	margin:  22px 26px 0px 0px;
+	font-family: 'Helvetica';
+}
+.active{
+	font-weight: bold
+}
+.girlpic{
+	display: inline-block;
+	vertical-align: middle;
+	width: 30px;
+	height: 30px;
+	margin-top: 11px;
+}
+
+.nav-links{
+	color: #343638;
+}
+.header-wraper{
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	z-index: 1;
+}
+.section1{
+	margin-top: 77px;
+	margin-left: 150px;
+
+}
+.section1-text{
+	font-size: 24px;
+	color: #202124;
+	width: 1026px;
+	height: 20px;
+	font-family: 'Helvetica';
+}
+
+.block-wraper{
+	position: relative;
+	display: inline-block;
+}
+.block-wraper-child{
+	width: 360px;
+	height: 180px;
+	margin-top: 76px;
+}
+.img-tittle{
+	font-family: 'Helvetica';
+}
+.img-clock{
+	margin-top: 13px;
+}
+.block-child{
+	margin-right: 40px;
+	margin-top: 40px;
+
+}
+.divimages{
+	width: 360px;
+	height: 180px;
+	
+}
+.pictext{
+	position: absolute;
+	top: 68px;
+	left: 40px;
+	color: #ffffff;
+	font-family: 'Helvetica';
+}
+.section2{
+	width: 1160px;
+	height: 900px;
+	margin-left: 150px;
+	margin-top: 58px;
+	position: relative;
+}
+
+.section2-maintext{
+	font-size: 24px;
+	color: #202124;
+	width: 771px;
+	height: 20px;
+	font-family: 'Helvetica';
+
+}
+.bridge-text{
+	position: absolute;
+	font-size: 16px;
+	top: 234px;
+	left: 308px;
+	color: #ffffff;
+	font-family: 'Helvetica';
+}
+
+.left-column{
+	margin-top: 40px;
+	display: inline-block;
+	vertical-align: top;
+}
+
+.img-bridge{
+	width: 760px;
+	height: 430px;
+	margin-bottom: 40px;
+}
+.img-forest{]
+	width: 760px;
+	height: 430px;
+}
+
+.right-column{
+	margin-top: 40px;
+	margin-left: 20px;
+	width: 360px;
+	height: 834px;
+	display: inline-block;
+	vertical-align: top;
+}
+.img-elephant{
+	margin-bottom: 102px;
+}
+.img-parrot {
+	margin-bottom: 102px;
+}
